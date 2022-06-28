@@ -6,7 +6,7 @@ Javában készült kaszino játék gyűjtemény.
 # követelmények
 <ol>
  <li>
-  XAMPP SQL server
+  XAMPP SQL server a megfelelő (kaszino.sql) alkalmazásával.
   </li> 
  </ol>
  
